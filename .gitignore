@@ -1,0 +1,5 @@
+# ignore data folder
+./data/*
+
+# ignored files
+./analysis/tableau/sf311calls.twbx
