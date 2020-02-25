@@ -2,4 +2,8 @@
 ./data/*
 
 # ignored files
-./analysis/tableau/sf311calls.twbx
+.workbooks/sf311calls.twbx
+
+# ignore .ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
