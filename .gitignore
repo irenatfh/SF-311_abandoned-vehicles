@@ -1,8 +1,6 @@
-# ignore data folder
-./data/*
-
 # ignored files
-.workbooks/sf311calls.twbx
+/workbooks/sf311calls.twbx
+/data/311_Cases.csv
 
 # ignore .ipynb checkpoints
 .ipynb_checkpoints
